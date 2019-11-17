@@ -74,7 +74,7 @@ int main()
 {
 
   int esc;
-  cout<<endl<<"Voce deseja criptografar[1] ou descriptografar[2] um arquivo?\n: ";
+  cout<<endl<<"Do you want to encrypt[1] or decrypt[2] a file?\n: ";
   cin>>esc;
   switch (esc)
   {
